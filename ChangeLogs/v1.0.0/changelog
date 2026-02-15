@@ -1,0 +1,12 @@
+# ListMe v1.0.1
+
+## Added
+- Search functionality for servers
+- Categories for bots
+
+## Improved
+- Server listing interface
+- Loading speed
+
+## Fixed
+- Bug with bot verification display
