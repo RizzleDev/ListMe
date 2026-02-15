@@ -1,12 +1,24 @@
-# ListMe v1.0.1
+# 📦 ListMe v1.0.1
 
-## Added
-- Search functionality for servers
-- Categories for bots
+**Release Date:** 2026-02-11 
 
-## Improved
-- Server listing interface
-- Loading speed
+This update brings better organization and new ways to discover servers and bots. 🚀
 
-## Fixed
-- Bug with bot verification display
+---
+
+## ✨ New Features
+- Search functionality for servers.
+- Categories added for bots to make discovery easier.
+- Highlighted trending communities.
+
+## 🔧 Improvements
+- Improved server listing interface.
+- Faster loading times for bots and servers.
+
+## 🐛 Bug Fixes
+- Fixed bot verification display issue.
+- Corrected minor layout inconsistencies.
+
+---
+
+💡 Tip: Check out the “Top Bots” section to see the most popular bots in ListMe!
