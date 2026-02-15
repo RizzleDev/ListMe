@@ -1,12 +1,9 @@
-# ListMe v1.0.1
+# ListMe v1.0.0
 
 ## Added
-- Search functionality for servers
-- Categories for bots
-
-## Improved
-- Server listing interface
-- Loading speed
+- Initial release of ListMe
+- Ability to discover verified bots
+- Ability to browse thriving Discord servers
 
 ## Fixed
-- Bug with bot verification display
+- Minor UI tweaks
